@@ -43,7 +43,7 @@ function Form(props) {
         <Typography variant="h5">{signIn}</Typography>
         <Select value={language} onChange={changeLanguage}>
           <MenuItem value="english">English</MenuItem>
-          <MenuItem value="vietnamese">Vietnamese</MenuItem>
+          <MenuItem value="vietnamese">Tiếng Việt</MenuItem>
         </Select>
         <form className={classes.form}>
           <FormControl margin="normal" required fullWidth>

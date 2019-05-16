@@ -13,12 +13,12 @@ import { LanguageContext } from "./contexts/LanguageContext";
 
 const content = {
   english: {
-    appTitle: "REACT CONTEXTS",
+    appTitle: "Theme mode",
     search: "Search",
     flag: "🇬🇧"
   },
   vietnamese: {
-    appTitle: "React Contexts",
+    appTitle: "Chuyển theme",
     search: "Tìm kiếm",
     flag: "🇻🇳"
   }
